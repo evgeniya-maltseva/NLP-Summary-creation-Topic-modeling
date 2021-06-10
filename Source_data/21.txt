@@ -1,0 +1,120 @@
+5. PREGNANCY AND BIRTH
+The health of both mothers and their babies benefit from antenatal             responds to key areas of maternal and perinatal health
+care, delivery attended by skilled health professionals and access             programmes, advocating for universal coverage and ensuring
+to health facilities for delivery as they reduce the risk of birth             skilled care at every birth within the context of a continuum of care
+complications and infections (see indicators “Reproductive health”,            (WHO, 2019[14]). Countries can follow this guide to effectively
+“Preterm births and low birthweight” and “Infant and young child               address issues such as pre-eclampsia and eclampsia; postpartum
+feeding” in Chapter 4) (Measure Evaluation, 2019[13]). The                     haemorrhage; postnatal care for the mother and baby; newborn
+Sustainable Development Goal 3.7 aims to ensure universal                      resuscitation; prevention of mother-to-child transmission of HIV;
+access to sexual and reproductive health care services, including              HIV and infant feeding; malaria in pregnancy, tobacco use and
+for family planning, information and education, and the integration            second-hand exposure in pregnancy, post-partum depression,
+of reproductive health into national strategies and programs by                post-partum family planning and post abortion care (WHO, UNFPA,
+2030.                                                                          UNICEF, World Bank, 2015[15]).
+In 29 LAC countries, most pregnant women – on average, 87% –
+received the recommended four visits, but access to antenatal care
+varies across countries and across socio-economic groups                                           Definition and comparability
+(Figure 5.15). Countries such as Uruguay and Peru have nearly
+complete coverage in average for the population (over 95% of four                     The major source of information on care during pregnancy
+antenatal visits), but inequalities exist: mothers in the lowest                   and birth are health interview surveys. Demographic and
+income quintile had around 4 and 8 percentage points of less                       Health Surveys (DHS), for example, are nationally
+coverage, respectively, compared to mothers in the highest income                  representative household surveys that provide data for a
+quintile. At the other end, in Haiti and Suriname, the average                     wide range of indicators in the areas of population, health,
+coverage of four antenatal care visits is less than 70%.                           and nutrition. Standard DHS Surveys have large sample
+Furthermore, Haiti has the largest inequality among countries with                 sizes (usually between 5 000 and 30 000 households) and
+data with almost 36 percentage points of difference between the                    typically are conducted every five years, to allow
+lowest and the highest income quintile mothers. Trinidad and                       comparisons over time. Women who had a live birth in the
+Tobago shows a high coverage and the lowest income inequality.                     five years preceding the survey are asked questions about
+                                                                                   the birth, including how many antenatal care visits they had,
+Most women (93% in average) had births attended by a skilled
+                                                                                   who provided assistance during delivery, and where the
+health professional such as a doctor, nurse or midwife in 29 LAC
+                                                                                   delivery took place.
+countries (Figure 5.16). However, less than one birth in two in Haiti
+and one in four in Guatemala are attended by a skilled health                         The income inequality data on antenatal care and skilled
+professional, with most deliveries assisted by untrained birth                     birth attendance was obtained from the Health Equity and
+attendants. Traditional birth attendants are important in several                  Financial Protection Indicators (HEFPI) dataset compiled
+other countries especially in rural settings. Inequalities between                 and maintained by the World Bank.
+mothers in the lowest and the highest income quintile are the
+largest in Haiti and Guatemala, showing a difference of 69 and
+57 percentage points of higher coverage, respectively, in favor of
+the richest group. The lowest inequality is found in Barbados and              References
+Uruguay, both having a similar high coverage across all socio-
+economic groups.                                                               [13] Measure Evaluation (2019), Indicator Compedium – Antenatal
+                                                                                    Care Coverage, https://www.measureevaluation.org/rbf/indicator-
+Delivery in health facilities varies across countries (Figure 5.17). In             collections/service-use-and-coverage-indicators/antenatal-care-
+11 LAC countries with data, 86% of deliveries occurred in                           coverage.
+established health care facilities. In Cuba, Dominican Republic, El
+                                                                               [14] WHO (2019), Integrated Management of Pregnancy and Childbirth
+Salvador, Colombia, Belize and Mexico over 96% of deliveries take                   (IMPAC), https://www.who.int/maternal_child_adolescent/topics/
+place at a health facility. In Haiti, most deliveries take place at home            maternal/impac/en/.
+(60%) and the rate is also high in Guatemala (34%) and slightly less
+                                                                               [15] WHO, UNFPA, UNICEF, World Bank (2015), Pregnancy,
+so in Honduras (17%) and Peru (15%).
+                                                                                    Childbirth, Postpartum and Newborn Care: A guide for essential
+The Integrated Management of Pregnancy and Childbirth (IMPAC)                       practice,              https://www.who.int/maternal_child_adolescent/
+is a package of guidelines and tools designed by WHO, which                         documents/imca-essential-practice-guide/en/.
+                          HEALTH AT A GLANCE: LATIN AMERICA AND THE CARIBBEAN 2020 © OECD/The International Bank for Reconstruction and Development/The World Bank 2020
+124
+
+
+                                                                                                                                              5. PREGNANCY AND BIRTH
+ Figure 5.15. Provision of care during pregnancy and birth, first                        Figure 5.16. Births attended by skilled health professionals,
+       and fifth income quintile, 2016 or latest year available                                first and fifth income quintile, latest year available
+                                  Low income                          High income                                      Low income                          High income
+                     Belize         LAC29, 87%                                                         Barbados         LAC29, 93%
+                  Colombia                                                                                Belize
+       Dominican Republic                                                                              Colombia
+                El Salvador                                                                 Dominican Republic
+                Guatemala                                                                            El Salvador
+                    Guyana                                                                           Guatemala
+                       Haiti                                                                             Guyana
+                 Honduras                                                                                   Haiti
+                   Jamaica                                                                            Honduras
+                    Mexico                                                                              Jamaica
+                   Panama                                                                                Mexico
+                  Paraguay                                                                              Panama
+                       Peru                                                                            Paraguay
+                  Suriname                                                                                  Peru
+      Trinidad and Tobago                                                                              Suriname
+                   Uruguay                                                                 Trinidad and Tobago
+                                                                                                        Uruguay
+                               40              60                  80           100
+                                 % of pregnant women receiving prenatal care of at                                  0        20           40      60           80       100
+                                                  least four visits                                                                          % of skilled birth attendance
+Note: The LAC29 average includes more countries than those represented in the         Note: The LAC29 average includes more countries than those represented in the
+figure due to data availability.                                                      figure due to data availability.
+Source: DHS and MICS 2019 for income inequalities on the 16 LAC countries             Source: DHS and MICS 2019 for income inequalities on the 16 LAC countries
+available; WHO GHO 2019 for the LAC29 average.                                        available. WHO GHO 2019 for the LAC29 average.
+                                            StatLink 2 https://stat.link/8gkzj0                                                  StatLink 2 https://stat.link/0h9gmv
+                                                         Figure 5.17. Place of delivery, latest year available
+                                               Other/Missing                        Home                                Healthcare facility
+            %
+           100
+            80
+            60
+            40
+            20
+             0
+Source: DHS and MICS 2019.
+                                                                                                                                   StatLink 2 https://stat.link/9lbjme
+HEALTH AT A GLANCE: LATIN AMERICA AND THE CARIBBEAN 2020 © OECD/The International Bank for Reconstruction and Development/The World Bank 2020
+                                                                                                                                                                           125
+
+
+                                   From:
+                                   Health at a Glance: Latin America and the
+                                   Caribbean 2020
+                                   Access the complete publication at:
+                                   https://doi.org/10.1787/6089164f-en
+    Please cite this chapter as:
+    OECD/The World Bank (2020), “Pregnancy and birth”, in Health at a Glance: Latin America and the
+    Caribbean 2020, OECD Publishing, Paris.
+    DOI: https://doi.org/10.1787/2cc4bc26-en
+This work is published under the responsibility of the Secretary-General of the OECD. The opinions expressed and arguments
+employed herein do not necessarily reflect the official views of OECD member countries.
+This document, as well as any data and map included herein, are without prejudice to the status of or sovereignty over any
+territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or area. Extracts from
+publications may be subject to additional disclaimers, which are set out in the complete version of the publication, available at
+the link provided.
+The use of this work, whether digital or print, is governed by the Terms and Conditions to be found at
+http://www.oecd.org/termsandconditions.

@@ -1,0 +1,161 @@
+LOW BIRTH WEIGHT
+     Birth weight is a strong indicator of maternal health
+care and nutritional status as well as new-born’s chances                    Definition and measurement
+for survival, growth, long-term health and psychosocial
+                                                                     Low birth weight is defined by the World Health
+development. Babies who are undernourished in the womb
+                                                                  Organization as the weight of an infant at birth of less
+are in great risk of dying during their early months and
+                                                                  than 2 500 grams (5.5 pounds) irrespective of the
+years. Those who do survive are likely to have an increased
+                                                                  gestational age of the infant. This figure is based on
+risk of disease, an impaired immune system and remain
+                                                                  epidemiological observations regarding the increased
+undernourished throughout their lives. Children born
+                                                                  risk of death to the infant and serves for international
+underweight are also likely to have cognitive disabilities
+                                                                  comparative health statistics. The number of low
+(Sutton and Darmstadt, 2013). Poor nutrition both before
+                                                                  birth weights is then expressed as a percentage of
+and during pregnancy is recognized as an important cause
+                                                                  total live births.
+of low birth weight. Research has shown that improved
+food quality and quantity consumption during pregnancy               There are issues with the data reliability data in
+effectively reduces low birth weight. Other factors such as       developing countries, where almost 605 of babies are
+infections, hypertension, smoking, poverty and poor socio-        not weighted at birth; deliveries often take place in
+economic status also affect birth weight.                         homes and small clinics that do not weigh or report
+                                                                  babies (UNICEF/WHO, 2004). In these countries, low
+     Low birth weight is a major public health problem in
+                                                                  birth weight estimates are primarily derived from
+developing countries. South Asia has the highest incidence
+                                                                  mothers participating in national household surveys,
+of low birth weight and accounts for more than half of the
+                                                                  as well as routine reporting systems (Channon et al.,
+world’s low birth weight babies (UNICEF Childinfo, 2013). In
+                                                                  2011). Trend analysis of low birth weight across
+2011, Sri Lanka, Nepal, Bangladesh and Pakistan had the
+                                                                  countries is difficult due to lack of comparable
+highest number of low birth weight infants in the Asia/
+                                                                  estimates over time.
+Pacific region (Figure 7.7, Panel A).
+     The rate of low infant birth weight is declining in the
+Asia/Pacific region. Despite the slow decline, improved
+maternal and child health policies contributed to decreas-      Further reading
+ing the number of infants born underweight. Overall, the        Channon, A., S. Padmadas and J. McDonald (2011), “Measur-
+region improved by 11% over ten years (Figure 7.7, Panel B).         ing Birth Weight in Developing Countries: Does the
+China, Myanmar and Viet Nam reduced the number of                    Method of Reporting in Retrospective Surveys Mat-
+underweight infants by 75% or more (Figure 7.8). The data            ter?”, Maternal and Child Health Journal, Vol. 15, No. 1,
+also suggest that Fiji, Indonesia, the Republic of Korea, the        pp. 12-18.
+OECD countries (on average), Samoa and Pakistan experi-
+                                                                Sutton, P.S. and G.L. Darmstadt (2013), “Preterm Birth and
+enced an increase. Except for Pakistan where economic
+                                                                     Neurodevelopment: A Review of Outcomes and Rec-
+development has stalled, the increase in low birth weight
+                                                                     ommendations for Early Identification and Cost-
+reflects advances in medical technology and greater sur-
+                                                                     effective Interventions”, Journal of Tropical Pediatrics,
+vival chances of babies born prematurely, which exerts
+                                                                    Vol. 59, No. 4, pp. 258-265.
+upward pressure on the incidence of low birth weight
+among infants.                                                  UNICEF Child Info (2013), “Monitoring the Situation of Chil-
+                                                                     dren and Women, Low Birthweight”, www.childinfo.org/
+     Low birth weight infants are at much higher risk of
+                                                                     low_birthweight_table.php.
+mortality than infants with normal weight at birth. The
+highest number of underweight babies is in Pakistan             UNICEF/WHO (2004), Low Birthweight: Country, Regional and
+reaching up to 59 deaths per 1 000 births in 2011 (Figure 7.9).      Global Estimates, Tessa M. Wardlaw (ed.), United
+                                                                     Nations Children’s Fund and the World Health Organi-
+                                                                     zation, New York/Geneva.
+112                                                                                  SOCIETY AT A GLANCE: ASIA/PACIFIC 2014 © OECD 2014
+
+
+                                                                                                                                                                          LOW BIRTH WEIGHT
+                                                                         Figure 7.7. Low birth weight
+       Panel A. Low birth weight infants, 2011 (or nearest year)                                                               Panel B. Percentage change, 2001 to 2011
+          Percentage of newborns weighing less than 2 500 g
+                                                                     2.3             China (2010-1999)                  -152
+                                                                 4.7              Mongolia (2010-2000)                                                    -32
+                                                                 5.0               Macau, China (2000)
+                                                                 5.0          Korea, Republic of (2011-2001)                                                                     24
+                                                                5.1               Viet Nam (2011-2000)                                        -73
+                                                                5.3            Kyrgyz Republic (2006-1997)                                                 -28
+                                                               5.8               Kazakhstan (2006-1999)                                                -41
+                                                              5.9                New Zealand (2011-2001)                                                           -8
+                                                              6.2                  Australia (2010-2001)                                                              -2
+                                                             6.6                   Thailand (2009-2001)                                                  -33
+                                                            6.8                              OECD                                                                           6
+                                                          7.4                      Armenia (2007-2000)                                                                     3
+                                                         8.1                              Singapore
+                                                        8.6                       Myanmar (2010-2000)                                        -74
+                                                     9.6                            Japan (2011-2001)                                                                         10
+                                                     9.7                          Azerbaijan (2006-2011)                                                    -24
+                                                     9.7                          Tajikistan (2005-2000)                                          -59
+                                                     9.9                            Bhutan (2010-1999)                                              -52
+                                                   10.1                      Papua New Guinea (2005-1996)                                                          -9
+                                                   10.2                               Fiji (2004-1998)                                                                      7
+                                                   10.2                             Samoa (2009-1997)                                                                                     62
+                                                  10.5                             Malaysia (2007-1998)                                                                      9
+                                                 10.8                             Lao PDR (2006-2000)                                                     -32
+                                               11.2                                     Asia/Pacific                                                             -11
+                                                11.1                              Indonesia (2010-1997)                                                                     7
+                                               11.3                               Cambodia (2010-2000)                                                                    0
+                                             12.5                              Solomon Islands (2007-1996)                                                           -2
+                                        15.9                                     Philippines (2011-2000)                                                     -23
+                                      16.6                                        Sri Lanka (2007-2000)                                                  -34
+                                    17.8                                             Nepal (2011-2001)                                                         -18
+                             21.6                                                Bangladesh (2006-1998)                                                 -39
+                            22.2                                                      Maldives (2001)
+                  27.6                                                               India (2006-1999)                                                           -10
+            31.6                                                                   Pakistan (2007-1999)                                                                              40
+ 40              30                20                  10                  0                                  -200         -150         -100          -50                0            50        100
+ %                                                                                                                                                                                        % change
+        Figure 7.8. Trends in low birth weight infants,                                                 Figure 7.9. Low birth weight and infant mortality,
+                      selected countries, 2000-11                                                                      2011 (or nearest year available)
+                      China                    India                        Indonesia
+                      Nepal                    Viet Nam                     OECD
+ Percentage of newborns weighing less than 2 500 g                                                 Infant mortality (deaths per 1 000 live births)
+    35                                                                                                80
+    30
+                                                                                                      60                                                                                      PAK
+    25
+                                                                                                                                 MMR                                                IND
+    20                                                                                                                               PNG
+                                                                                                                             BTN
+                                                                                                      40                           AZE                   NPL
+                                                                                                                                                                    BGD
+    15                                                                                                                               LAO
+                                                                                                                     KGZ       Asia/Pacific
+                                                                                                              MNG         KAZ
+    10                                                                                                                                IDN
+                                                                                                      20           ARM            WSM              PHL
+                                                                                                            CHN              VNM          SLB
+                                                                                                                                    FJI
+     5                                                                                                                      THA                      LKA
+                                                                                                                   NZL
+                                                                                                                            OECD     MYS                                                R² = 0.39
+                                                                                                                 KOR               JPN
+     0                                                                                                 0
+      2000         2002           2004         2006                2008               2011                0          5           10          15            20              25          30         35
+                                                                                                                                                                             Low birth weight (%)
+Source: OECD Health Data 2013, www.oecd.org/health/heatlhdata; World Bank, World Development Indicators.
+                                                                                                                        1 2 http://dx.doi.org/10.1787/888933151148
+SOCIETY AT A GLANCE: ASIA/PACIFIC 2014 © OECD 2014                                                                                                                                             113
+
+
+                                 From:
+                                 Society at a Glance: Asia/Pacific 2014
+                                 Access the complete publication at:
+                                 https://doi.org/10.1787/9789264220553-en
+    Please cite this chapter as:
+    OECD (2014), “Low birth weight”, in Society at a Glance: Asia/Pacific 2014, OECD Publishing, Paris.
+    DOI: https://doi.org/10.1787/soc_aag-2014-24-en
+This work is published under the responsibility of the Secretary-General of the OECD. The opinions expressed and arguments
+employed herein do not necessarily reflect the official views of OECD member countries.
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the
+delimitation of international frontiers and boundaries and to the name of any territory, city or area.
+You can copy, download or print OECD content for your own use, and you can include excerpts from OECD publications,
+databases and multimedia products in your own documents, presentations, blogs, websites and teaching materials, provided
+that suitable acknowledgment of OECD as source and copyright owner is given. All requests for public or commercial use and
+translation rights should be submitted to rights@oecd.org. Requests for permission to photocopy portions of this material for
+public or commercial use shall be addressed directly to the Copyright Clearance Center (CCC) at info@copyright.com or the
+Centre français d’exploitation du droit de copie (CFC) at contact@cfcopies.com.

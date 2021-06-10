@@ -1,0 +1,128 @@
+8. HEALTH WORKFORCE
+Health and social care workforce
+   In OECD countries, health and social systems employ more        physician providers (such as nurse                    practitioners,
+   workers now than at any other time in history. In 2017,         pharmacists and community health                     workers), or
+   about one in every ten jobs was found in health or social care  introducing more multi-professional teams            and treatment
+   (Figure 8.1), which amounts to a nearly two percentage-         structures, can increase the productivity            of the health
+   point increase since 2000. In Nordic countries and the          workforce, as well as improving continuity           and quality of
+   Netherlands, more than 15% of all jobs are in health and        care for patients.
+   social work. From 2000 to 2017 the share of health and social   New health technologies are a further factor driving rapid
+   care workers remained steady or increased in all countries      change in the health and social care sector, and their
+   except the Slovak Republic (where it decreased in the 2000s     development and impact can be hard to predict.
+   and has remained stable since 2010). In some countries,         Technological shifts are expected in information technology
+   notably Japan, Ireland and Luxembourg, the share of health      and big data, automation and artificial intelligence; these
+   and social care workers increased considerably.                 may generate demand for new specialities or skills for
+   The health and social care sector is critical for the effective health and social care workers, while reducing the
+   functioning of OECD societies and economies, and as a           importance of other professional roles (OECD, 2019[3]).
+   result the sector is not directly aligned with general
+   workforce trends. Specifically, in OECD countries from 2000
+   to 2017, employment in the health and social sector
+   increased on average by 42% (with a median increase of              Definition and comparability
+   38%), outpacing even the growth in the service sector and
+                                                                       Health and social work is one of the economic
+   trends in total employment, while employment in
+                                                                       activities defined according to the major divisions of
+   agriculture and industry declined sharply across the same
+                                                                       the International Standard Industrial Classification of
+   period (Figure 8.2). At the same time, the health and social
+                                                                       All Economic Activities (ISIC). Health and social work is
+   care sector also tends to be more robust to cyclical
+                                                                       a sub-component of the Services sector, and is defined
+   employment fluctuations. For example, while total
+                                                                       as a composite of human health activities, residential
+   employment declined in the United States and other OECD
+                                                                       care activities (including long-term care), and social
+   countries during the economic recessions of the early 1990s
+                                                                       work activities without accommodation. The
+   and, in particular, 2008-09, employment in the health and
+                                                                       employment data are taken from the OECD National
+   social care sector continued to grow steadily throughout.
+                                                                       Accounts database for the 36 OECD member countries,
+   Looking forward, employment in the health and social care           except for Turkey where the source is the OECD
+   sector is likely to continue to increase. Investment in health      Annual Labour Force Statistics database.
+   systems, including in workforce development, can promote
+   economic growth by securing a healthy population, as well
+   as along other pathways such as innovation and health
+   security (UN High-Level Commission on Health
+   Employment and Economic Growth, 2016[1]). The                   References
+   distribution of health and social care workers’ skills and      [2] OECD (2019), Who Cares? Attracting and Retaining Care Workers
+   roles, however, is expected to change, driven in large part by       for the Elderly, OECD Publishing, Paris, https://doi.org/
+   ageing populations. With more older people, the pattern of           10.1787/92c0ef68-en.
+   demand for health and social services will shift towards        [3] OECD (2019), “Engaging and transforming the health
+   greater demand for long-term care and related social                 workforce”, in Health in the 21st Century: Putting Data to Work
+   services, which are particularly labour-intensive (OECD,             for Stronger Health Systems, OECD Publishing, Paris.
+   2019[2]). In response to, or in anticipation of, this           [1] UN High-Level Commission on Health Employment and
+   demographic shift, many countries have begun to introduce            Economic Growth (2016), Working for Health and Growth:
+   new care delivery models that integrate health and social            Investing in the Health Workforce, World Health Organization,
+   services. Policies such as expanding the roles of non-               Geneva, http://www.who.int/hrh/com-heeg/reports.
+   170                                                                                                  HEALTH AT A GLANCE 2019 © OECD 2019
+
+
+                                                                                                                                                                                               8. HEALTH WORKFORCE
+                                                                                                                                                                                          Health and social care workforce
+     Figure 8.1. Employment in health and social work as a share of total employment, 2000 and 2017 (or nearest year)
+         %                                                                                        2000                                                                        2017
+         25
+              20.9
+         20
+                     17.5   17.3
+                                   15.6   15.4
+         15                                      14.1   13.6   13.4   13.3   13.3   13.1
+                                                                                           12.4   12.3   11.9
+                                                                                                                10.9   10.8   10.5
+                                                                                                                              10.4   10.4   10.3   10.1
+         10
+                                                                                                                                                          8.2
+                                                                                                                                                                7.8
+                                                                                                                                                                      7.2   7.2   6.8   6.6   6.5   6.4         6.0               5.4   5.4
+          5                                                                                                                                                                                                                                   4.2
+                                                                                                                                                                                                          6.0         5.8   5.5                     3.0
+          0
+Source: OECD National Accounts; OECD Annual Labour Force Statistics for Turkey.
+                                                                                                                                                                             StatLink 2 https://doi.org/10.1787/888934017215
+                                   Figure 8.2. Employment growth by sector, OECD average1, 2000-17 (or nearest year)
+                                                                                             Mean                                                                            Median
+       Change in employment since 2000
+       50%
+                                                                                                                                                                                                                        42%
+       40%                                                                                                                                                                                                                          38%
+       30%                                                                                                                                                                  28%
+                                                                                                                                                                                        24%
+       20%
+                            15%
+                                          12%
+       10%
+        0%
+                                                                                                                               -4%
+      -10%
+                                                                                                                                            -10%
+      -20%
+                                                                                       -23%
+                                                                              -25%
+      -30%
+                                   Total                                        Agriculture                                      Industry                                     Services                          Health and social work²
+1. Average of 30 OECD countries (excluding Chile, Iceland, Korea, New Zealand, Switzerland and Turkey).
+2. Health and social work is classified as a sub-component of the services sector.
+Source: OECD National Accounts.
+                                                                                                                                                                             StatLink 2 https://doi.org/10.1787/888934017234
+HEALTH AT A GLANCE 2019 © OECD 2019
+                                                                                                                                                                                                                                                          171
+
+
+                                   From:
+                                   Health at a Glance 2019
+                                   OECD Indicators
+                                   Access the complete publication at:
+                                   https://doi.org/10.1787/4dd50c09-en
+    Please cite this chapter as:
+    OECD (2019), “Health and social care workforce”, in Health at a Glance 2019: OECD Indicators, OECD
+    Publishing, Paris.
+    DOI: https://doi.org/10.1787/802338c3-en
+This work is published under the responsibility of the Secretary-General of the OECD. The opinions expressed and arguments
+employed herein do not necessarily reflect the official views of OECD member countries.
+This document, as well as any data and map included herein, are without prejudice to the status of or sovereignty over any
+territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or area. Extracts from
+publications may be subject to additional disclaimers, which are set out in the complete version of the publication, available at
+the link provided.
+The use of this work, whether digital or print, is governed by the Terms and Conditions to be found at
+http://www.oecd.org/termsandconditions.

@@ -1,0 +1,135 @@
+5.  HEALTH CARE RESOURCES AND UTILISATION
+PREGNANCY AND BIRTH
+      Antenatal care, delivery attended by skilled health   are more common among mothers giving birth for the
+professionals and access to health facilities for delivery  first time, or those who have had at least four antenatal
+are important for the health of both mothers and their      visits, as well as among mothers living in urban regions
+babies as they reduce the risk of birth complications and   and those with higher education and wealth.
+infections (see indicators “Reproductive health”,                 Access to skilled birth attendants varies by socio-
+“Preterm births and low birthweight” and “Infant and        economic factors (Figure 5.18). Mongolia, Thailand and
+young child feeding” in Chapter 4). WHO currently           Sri Lanka have a high coverage of births attended by
+recommends a minimum of four antenatal visits, and          skilled health professionals among mothers with
+antenatal care coverage has been monitored to ensure        different education and income levels, and living in
+universal access to sexual and reproductive health-care     different geographical locations. However, in other
+services, including for family planning, information and    countries, the coverage of births attended by skilled
+education, and the integration of reproductive health       health professionals is highly unequal among women
+into national strategies and programmes by 2030             of different income and education levels. For example,
+(Sustainable Development Goal 3.7).                         in the Philippines and Lao PDR, access differs by more
+      In Asia-Pacific, only two in three pregnant women –   than five-fold between mothers of the lowest
+on average – received the recommended four visits in        education level versus mothers of the highest levels.
+lower middle and low income countries, but access to        Disparity by household income is largest in Lao PDR,
+antenatal care varies across countries (Figure 5.16,        with a 8-fold difference between the highest and
+left panel). DPR Korea, Sri Lanka, Brunei Darussalam, Fiji, lowest income quintiles respectively, and in Pakistan
+Thailand and the Republic of Korea have nearly              with a 4-fold difference. In contrast, differences in
+complete coverage of over 90% of four antenatal visits. At  access to skilled care at birth remain relatively small
+the other end, in Bangladesh, Pakistan and Lao PDR, the     between urban and rural areas across countries (except
+coverage of four antenatal care visits is less than 40%.    for Lao PDR).
+      Only three women in four had births attended by a
+skilled health professional in lower-middle and low
+income Asia-Pacific countries, whereas almost all births
+were attended by a skilled health professional such as a
+                                                                        Definition and comparability
+doctor, nurse or midwife in high and upper-middle                 The major source of information on care during
+income countries (Figure 5.16, right panel). Less than          pregnancy and birth are health interview surveys.
+one birth in two in Bangladesh, Lao PDR and Papua               Demographic and Health Surveys (DHS),
+New Guinea is attended by a skilled health professional,        for example, are nationally representative
+with most deliveries assisted by dais or untrained birth        household surveys that provide data for a wide
+attendants. Traditional birth attendants are important          range of indicators in the areas of population,
+in several other countries including Cambodia, India,           health, and nutrition. Standard DHS Surveys have
+Indonesia, Myanmar, Pakistan and the Philippines,               large sample sizes (usually between 5 000 and
+especially in rural settings.                                   30 000 households) and typically are conducted
+      Delivery in health facilities varies across countries     every five years, to allow comparisons over time.
+(Figure 5.17). In Australia, Thailand, Mongolia,               Women who had a live birth in the five years
+Sri Lanka and Viet Nam, almost all deliveries take              preceding the survey are asked questions about
+place at a health facility. On the other hand, in               the birth, including how many antenatal care
+Bangladesh and India, most deliveries occur at home             visits they had, who provided assistance during
+and only less than 40% of births take place in a health         delivery, and where the delivery took place.
+facility. Across countries, deliveries in health facilities
+92                                                                      HEALTH AT A GLANCE: ASIA/PACIFIC 2018 © OECD/WHO 2018
+
+
+                                                                                                            5.    HEALTH CARE RESOURCES AND UTILISATION
+             5.16. Provision of care during pregnancy and birth, 2016 or latest year available
+                    Antenatal visit during last pregnancy                                                  Births attended by skilled health personnel
+                      At least 1 visit          At least 4 visits
+                                                                               Lao PDR
+                                                                            Bangladesh
+                                                                                Nepal
+                                                                         Papua New Guinea
+                                                                               Pakistan
+                                                                                 India
+                                                                          Asia Pacific-LM/L
+                                                                              Myanmar
+                                                                             Cambodia
+                                                                          Solomon Islands
+                                                                                OECD
+                                                                         Brunei Darussalam
+                                                                                China
+                                                                             Philippines
+                                                                              Indonesia
+                                                                              Viet Nam
+                                                                               Australia
+                                                                               Malaysia
+                                                                          Asia Pacific-UM
+                                                                           Asia Pacific-H
+                                                                               Thailand
+                                                                                  Fiji
+                                                                              Mongolia
+                                                                              Sri Lanka
+                                                                            Korea, DPR
+                                                                            Korea, Rep.
+                                                                             Singapore
+                                                                                Japan
+                                                                            New Zealand
+         100         80           60          40           20      0                              0            20          40            60          80          100
+                                        %                                                                                         %
+Source: WHO GHO (2018).
+                                                                                                      1 2 http://dx.doi.org/10.1787/888933868386
+  5.17. Place of delivery, latest year available                                              5.18. Births attended by skilled health
+                                                                                              professionals, by socio-economic and
+        Other/Missing        Private facility      Public facility  Home                      geographic factor, latest year available
+     %                                                                                                                Lowest education                 Highest education
+      100                                                                                                                     Rural                         Urban
+                                                                                                                         Lowest income                  Highest income
+                                                                                          Solomon Islands (2015)
+       80
+                                                                                                   Laos (2011-12)
+                                                                                                 Myanmar (2015)
+       60
+                                                                                                 Mongolia (2013)
+                                                                                                  Thailand (2012)
+       40                                                                                        Sri Lanka (2016)
+                                                                                                 Viet Nam (2014)
+                                                                                               Philippines (2013)
+       20
+                                                                                                  Pakistan (2012)
+                                                                                                     Nepal (2014)
+         0                                                                                      Indonesia (2014)
+                                                                                                      India (2013)
+                                                                                                Cambodia (2014)
+                                                                                               Bangladesh (2014)
+                                                                                                                    0         20          40        60          80     100
+                                                                                                                   % of skilled birth attendance by socio-economic factors
+Source: DHS and MICS surveys, various years.                                            Source: DHS and MICS surveys, various years.
+             1 2 http://dx.doi.org/10.1787/888933868405                                               1 2 http://dx.doi.org/10.1787/888933868424
+HEALTH AT A GLANCE: ASIA/PACIFIC 2018 © OECD/WHO 2018                                                                                                                    93
+
+
+                                 From:
+                                 Health at a Glance: Asia/Pacific 2018
+                                 Measuring Progress towards Universal Health Coverage
+                                 Access the complete publication at:
+                                 https://doi.org/10.1787/health_glance_ap-2018-en
+    Please cite this chapter as:
+    OECD/World Health Organization (2018), “Pregnancy and birth”, in Health at a Glance: Asia/Pacific 2018:
+    Measuring Progress towards Universal Health Coverage, OECD Publishing, Paris.
+    DOI: https://doi.org/10.1787/health_glance_ap-2018-34-en
+This work is published under the responsibility of the Secretary-General of the OECD. The opinions expressed and arguments
+employed herein do not necessarily reflect the official views of OECD member countries.
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the
+delimitation of international frontiers and boundaries and to the name of any territory, city or area.
+You can copy, download or print OECD content for your own use, and you can include excerpts from OECD publications,
+databases and multimedia products in your own documents, presentations, blogs, websites and teaching materials, provided
+that suitable acknowledgment of OECD as source and copyright owner is given. All requests for public or commercial use and
+translation rights should be submitted to rights@oecd.org. Requests for permission to photocopy portions of this material for
+public or commercial use shall be addressed directly to the Copyright Clearance Center (CCC) at info@copyright.com or the
+Centre français d’exploitation du droit de copie (CFC) at contact@cfcopies.com.
